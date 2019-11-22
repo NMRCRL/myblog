@@ -1,0 +1,5 @@
+2019-11-19.13:19:08 ERROR [main] com.zl.blog.util.DbUtil.getConnection:60  2019-11-19T13:19:08.707297900数据库连接失败
+2019-11-19.13:20:11 ERROR [main] com.zl.blog.util.DbUtil.getConnection:60  2019-11-19T13:20:11.333386600数据库连接失败
+2019-11-19.13:24:53 ERROR [main] com.zl.blog.util.DbUtil.getConnection:60  2019-11-19T13:24:53.422438900数据库连接失败
+2019-11-19.13:25:34 ERROR [main] com.zl.blog.util.DbUtil.getConnection:60  2019-11-19T13:25:34.460672700数据库连接失败
+2019-11-19.13:29:59 INFO  [main] com.zl.blog.dao.ArticleDaoTest.batchInsert:20  成功新增99个用户
